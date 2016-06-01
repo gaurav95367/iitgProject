@@ -1,0 +1,25 @@
+* Author: GAURAV ANAND
+* Date Created: 1 June 2016
+* Environment
+  - OS: Windows 7,Ubuntu-16.04,CentOS-6
+  - Browsers: Firefox-42.0,Chrome-47.0,Chromium-45.0
+  - Bandwidth : 100Mbps
+  - Hardware Configuration:8GB RAM , 
+  - Processor:i7
+
+* Objective
+  - To check the Experiment 1 of the Magnetic Field Behaviour in Single Coil experiment
+
+* Pre conditions
+  - Refer to first test case [Magnetic_Field_Behaviour_in_Single_Coil_01_usiability.org] 
+
+* Post conditions
+   - Nil
+* Test Steps
+  1. Click on "Experiment 1" link on page.
+
+
+* Expected result
+  1.user should be redireted to "http://vem-iitg.vlabs.ac.in/Magnetic_Field_Behaviour_in_single_coil%28experiment1%29.html"
+
+* Review comments
