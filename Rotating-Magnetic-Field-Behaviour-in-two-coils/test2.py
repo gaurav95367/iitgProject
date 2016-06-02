@@ -142,12 +142,12 @@ else:
 print 'On Simulator of Exp  : '
 x = find('/html/body/div/div[3]/div/div[1]/ul/li[4]/a/h6')
 x.click()
-
-if(driver.current_url == 'http://vem-iitg.vlabs.ac.in/Rotating%20Magnetic%20Field%20Behaviour%20in%20two%20coils%28experiments%29.html'):
+x = driver.current_url
+if(x == 'http://vem-iitg.vlabs.ac.in/Rotating%20Magnetic%20Field%20Behaviour%20in%20two%20coils(experiments).html'):
 	print '	simulator for Exp : working'
 	result[5]=1
 else:
-	print '	simulator for Exp not working-',driver.current_url
+	print '	simulator for Exp not working-'
 	result[5]=-1
 
 #now going to quiz page
