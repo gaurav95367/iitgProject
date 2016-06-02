@@ -21,6 +21,6 @@
 
 * Expected result
   1. Quiz page should be opened
-  2. If the selected option is correct a cross mark should be displayed indicating that the selected answer is correct.
+  2. If the selected option is correct a cross mark should be displayed indicating that the selected answer is incorrect.
 
 * Review comments
