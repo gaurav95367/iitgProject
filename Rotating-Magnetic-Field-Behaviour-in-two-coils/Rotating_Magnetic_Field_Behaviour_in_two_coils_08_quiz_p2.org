@@ -20,7 +20,6 @@
   2. fill 1 correct respnse and submit
 
 * Expected result
-  1. Quiz page should be opened
-  2. If the selected option is correct a tick mark should be displayed indicating that the selected answer is correct.
+  1. If the selected option is correct a tick mark should be displayed indicating that the selected answer is correct.
 
 * Review comments
