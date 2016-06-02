@@ -11,7 +11,7 @@
   - To take quiz with incorrect answer
 
 * Pre conditions
-  - Refer to first test case [ Magnetic_Field_Behaviour_in_two_Coils_07_quiz_p1.org]
+  - Refer to first test case [ Magnetic_Field_Behaviour_in_two_Coils_08_quiz_p1.org]
 
 * Post conditions
    - Nil
