@@ -19,7 +19,7 @@ chkr.ignore_always('IIT');chkr.ignore_always('iit')
 chkr.ignore_always('Behaviour');chkr.ignore_always('behaviour')
 chkr.ignore_always('CSE');chkr.ignore_always('cse');
 driver=webdriver.Firefox()			
-wait = WebDriverWait(driver, 60)		# seeting wait time for firefox to be 10 seconds
+wait = WebDriverWait(driver, 120)		# seeting wait time for firefox to be 120 seconds
 
 def find(xpath):						# a function to find web-elements 
 	try:
