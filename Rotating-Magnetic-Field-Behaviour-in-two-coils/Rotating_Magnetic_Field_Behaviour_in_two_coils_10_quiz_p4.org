@@ -20,7 +20,6 @@
   2. do not fill any response and submit
 
 * Expected result
-  1. Quiz page should be opened
-  2. A cross mark should be displayed 
+  1. A cross mark should be displayed 
 
 * Review comments
