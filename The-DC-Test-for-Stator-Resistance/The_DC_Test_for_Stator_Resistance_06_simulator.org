@@ -21,7 +21,6 @@
 
 * Expected result
   1. Simulator page should be opened
-  2. User should be redirected to http://vem-iitg.vlabs.ac.in/Rotating%20Magnetic%20Field%20Behaviour%20in%20two%20coils(experiments).html
-
+  2. User should be redirected to ---
 
 * Review comments
