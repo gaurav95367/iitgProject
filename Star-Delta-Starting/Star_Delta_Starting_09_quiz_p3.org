@@ -1,0 +1,25 @@
+* Author: GAURAV ANAND
+* Date Created: 1 June 2016
+* Environment
+  - OS: Windows 7,Ubuntu-16.04,CentOS-6
+  - Browsers: Firefox-42.0,Chrome-47.0,Chromium-45.0
+  - Bandwidth : 100Mbps
+  - Hardware Configuration:8GB RAM , 
+  - Processor:i7
+
+* Objective
+  - To take quiz with incorrect answer
+
+* Pre conditions
+  - Refer to first test case [Star_Delta_Starting_07_quiz_p1.org]
+
+* Post conditions
+   - Nil
+* Test Steps
+  1. Go to on the quiz page 
+  2. fill 1 incorrect respnse and submit
+
+* Expected result
+  1. If the selected option is correct a cross mark should be displayed indicating that the selected answer is incorrect.
+
+* Review comments
