@@ -52,7 +52,7 @@ total_mis_spells =total_mis_spells + mis_spells
 
 #tesing theory page
 print 'On Theory Page : '
-x=find('//html/body/div/div[4]/ul/li[2]/a')
+x=find('/html/body/div/div[4]/ul/li[2]/a')
 x.click()
 content =find('/html/body')  #content now contains content of theory
 chkr.set_text(content.text)
