@@ -21,6 +21,6 @@
 
 * Expected result
   1. Simulator page should be opened
-  2. User should be redirected to '--'
+  2. User should be redirected to 'http://vem-iitg.vlabs.ac.in/Auto%20Transformer%20Starting(experiment).html'
 
 * Review comments
