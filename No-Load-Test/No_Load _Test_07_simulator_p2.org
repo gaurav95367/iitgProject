@@ -1,0 +1,24 @@
+* Author: GAURAV ANAND
+* Date Created: 1 June 2016
+* Environment
+  - OS: Windows 7,Ubuntu-16.04,CentOS-6
+  - Browsers: Firefox-42.0,Chrome-47.0,Chromium-45.0
+  - Bandwidth : 100Mbps
+  - Hardware Configuration:8GB RAM , 
+  - Processor:i7
+
+* Objective
+  - To check links in page of Simulator of   The No-Load Test
+
+* Pre conditions
+  - Refer to first test case [ No_Load _Test_01_usuability.org]
+
+* Post conditions
+   - Nil
+* Test Steps
+  1. Click all links one by one and verify
+
+* Expected result
+  1. User should be redirected to appropriate url in all link clicks
+
+* Review comments
