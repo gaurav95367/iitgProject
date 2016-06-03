@@ -1,0 +1,25 @@
+* Author: GAURAV ANAND
+* Date Created: 1 June 2016
+* Environment
+  - OS: Windows 7,Ubuntu-16.04,CentOS-6
+  - Browsers: Firefox-42.0,Chrome-47.0,Chromium-45.0
+  - Bandwidth : 100Mbps
+  - Hardware Configuration:8GB RAM , 
+  - Processor:i7
+
+* Objective
+  - To take quiz with no answer
+
+* Pre conditions
+  - Refer to  test case [Stator_Resistance_Starter_07_quiz_p1.org]
+
+* Post conditions
+   - Nil
+* Test Steps
+  1. Go to on the quiz page 
+  2. do not fill any response and submit
+
+* Expected result
+  1. A cross mark should be displayed 
+
+* Review comments
