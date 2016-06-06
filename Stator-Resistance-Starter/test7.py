@@ -29,7 +29,8 @@ def find(xpath):						# a function to find web-elements
 		print 'element with xpath =',xpath,'not found or the your net connection is slow'
 		sys.exit()
 
-print 'Testing :Stator Resistance Starter'
+print ''
+print 'Testing : Stator Resistance Starter =>'
 driver.get('http://vem-iitg.vlabs.ac.in/Stator%20Resistance%20Starter%28quiz%29.html')
 
 #testing introduction page
@@ -158,7 +159,7 @@ else :
 	
 driver.close()
 
-print '	Final Report : '	
+print 'Final Report : '	
 testname = 	'Stator_Resistance_Starter_02_introduction'
 if result[0] == 1:
 		print testname,'passed'
