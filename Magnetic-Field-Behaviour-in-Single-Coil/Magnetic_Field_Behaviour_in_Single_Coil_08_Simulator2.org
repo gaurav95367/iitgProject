@@ -20,6 +20,6 @@
 
 
 * Expected result
-  1.user should be redireted to "http://vem-iitg.vlabs.ac.in/Magnetic_Field_Behaviour_in_single_coil%28experiment2%29.html"
+  1.user should be redireted to "http://vem-iitg.vlabs.ac.in/Magnetic_Field_Behaviour_in_single_coil(experiment2).html"
 
 * Review comments
