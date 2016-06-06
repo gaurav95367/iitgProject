@@ -159,7 +159,7 @@ else :
 	
 driver.close()
 
-print '	Final Report : '	
+print 'Final Report : '	
 testname = 	'Auto_Transformer_Starting_02_introduction'
 if result[0] == 1:
 		print testname,'passed'
