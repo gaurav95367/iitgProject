@@ -12,12 +12,13 @@ total_mis_spells=0		# variable to hold total number of mis-spells
 chkr = SpellChecker("en_US")
 # adding some ignore words in dictionary...
 chkr.ignore_always('Lenz');chkr.ignore_always('lenz')
-chkr.ignore_always('GUWAHATI');chkr.ignore_always('guwahati')
+chkr.ignore_always('GUWAHATI');chkr.ignore_always('guwahati');chkr.ignore_always('Guwahati')
 chkr.ignore_always('Shakshat');chkr.ignore_always('shakshat')
 chkr.ignore_always('MCB')
 chkr.ignore_always('IIT');chkr.ignore_always('iit')
 chkr.ignore_always('Behaviour');chkr.ignore_always('behaviour')
 chkr.ignore_always('CSE');chkr.ignore_always('cse');
+chkr.ignore_always('Colour');chkr.ignore_always('colour');
 driver=webdriver.Firefox()			
 wait = WebDriverWait(driver, 120)		# seeting wait time for firefox to be 120 seconds
 
@@ -28,8 +29,8 @@ def find(xpath):						# a function to find web-elements
 	except:
 		print 'element with xpath =',xpath,'not found or the your net connection is slow'
 		sys.exit()
-
-print 'Star-Delta Starting'
+print ''
+print 'Testing : Star-Delta Starting => '
 driver.get('http://vem-iitg.vlabs.ac.in/Star%20Delta%20Starting%28intro%29.html')
 
 #testing introduction page
