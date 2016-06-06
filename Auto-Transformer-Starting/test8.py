@@ -29,7 +29,8 @@ def find(xpath):						# a function to find web-elements
 		print 'element with xpath =',xpath,'not found or the your net connection is slow'
 		sys.exit()
 
-print ' Auto Transformer Starting'
+print ''
+print 'Testing : Auto Transformer Starting =>'
 driver.get('http://vem-iitg.vlabs.ac.in/Auto%20Transformer%20Starting%28intro%29.html')
 
 #testing introduction page
