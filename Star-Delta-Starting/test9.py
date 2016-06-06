@@ -159,7 +159,7 @@ else :
 	
 driver.close()
 
-print '	Final Report : '	
+print 'Final Report : '	
 testname = 	'Star_Delta_Starting_Starting_02_introduction'
 if result[0] == 1:
 		print testname,'passed'
